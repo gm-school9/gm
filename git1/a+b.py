@@ -1,3 +1,3 @@
-a = int(input())
-b = int(input())
-print(a + b)
+a = int(input('Enter first number: '))
+b = int(input('Enter second number: '))
+print(f"summa {a} and {b}  is {a + b}")
